@@ -13,7 +13,7 @@ export const ProfileView: React.FC = () => {
       <div className="content-card" style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
         {/* Profile Avatar Header Badge */}
         <div style={{ display: 'flex', alignItems: 'center', gap: '16px', borderBottom: '1px solid #334155', paddingBottom: '20px', flexWrap: 'wrap' }}>
-          <div style={{ width: '64px', height: '64px', borderRadius: '50%', backgroundColor: '#2563eb', display: 'flex', alignItems: 'center', justifycontent: 'center', fontSize: '24px', fontWeight: 'bold', color: '#ffffff' }}>
+          <div style={{ width: '64px', height: '64px', borderRadius: '50%', backgroundColor: '#2563eb', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '24px', fontWeight: 'bold', color: '#ffffff' }}>
             S
           </div>
           <div>

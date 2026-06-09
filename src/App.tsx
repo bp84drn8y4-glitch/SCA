@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import type { CurrentView, CampusEvent } from './types/app';
 import { Sidebar } from './components/Sidebar';
 import { EventsView } from './components/EventsView';
